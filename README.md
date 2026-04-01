@@ -22,13 +22,13 @@ The server handles different routes, serves HTML pages, CSS file, and shows a cu
 
 ## Pages & Routes
 
- Page Name       \ Description                     
------------------/---------------------------------/------
- Home            / Hero section + services preview /
- About Us        / Company story and features      /
- Contact         / Contact form and details        /
- Services        / Detailed service list           /
- 404 Error       / Custom not-found page           /
+ Page Name           Description                     
+--------------------------------------------------------
+ Home            -- Hero section + services preview 
+ About Us        -- Company story and features     
+ Contact         -- Contact form and details        
+ Services       --- Detailed service list           
+ 404 Error      --- Custom not-found page           
 
 ## How to Run the Project
 
